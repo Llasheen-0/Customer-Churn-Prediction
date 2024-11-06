@@ -38,7 +38,7 @@ The project explores the following models for churn prediction:
 
 ## Results
 
-The best-performing model achieved an accuracy of **X%** on the test set, with key findings on customer characteristics and behaviors linked to higher churn risk. Specific insights include:
+The best-performing model achieved an accuracy of **81%** on the test set, with key findings on customer characteristics and behaviors linked to higher churn risk. Specific insights include:
 - **Churn trends** among senior citizens and customers with certain service combinations.
 - **Key retention strategies** suggested based on customer attributes correlated with churn.
 
